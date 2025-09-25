@@ -1,2 +1,1 @@
-https://api-admin.sinarsentosaprimatama.com/
-https://apianalytic-admin.sinarsentosaprimatama.com/
+output
