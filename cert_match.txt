@@ -1,0 +1,12 @@
+product-dara.dayaauto.co.id
+api-dara.dayaauto.co.id
+dara.dayaauto.co.id
+webhook-dara.dayaauto.co.id
+dara-salesappweb.modakita.com
+dara-messages.modakita.com
+gptservice-dara.modakita.com
+chatsdk-dara.modakita.com
+jaringan.dayaauto.co.id
+testmail.dayaauto.co.id
+campaign-dam.modakita.com
+daya-beta.modakita.com
